@@ -1,6 +1,8 @@
 # GlobePocket
 
-## Inspiration We are not satisfied with the current traditional tourism arrangements and aim to create a new tourism ecosystem  ## What it does We use a chatbot to simulate the process of discussion between passengers and tour guides, increase the experience of passengers in the process of arranging the itinerary, and reduce the process of exploring and collecting information on the journey.  
+## Inspiration We are not satisfied with the current traditional tourism arrangements and aim to create a new tourism ecosystem  
+
+## What it does We use a chatbot to simulate the process of discussion between passengers and tour guides, increase the experience of passengers in the process of arranging the itinerary, and reduce the process of exploring and collecting information on the journey.  
 
 ## How we built it We started with our expertise in data science and systems, and combined global meteorological data and expert experience into system calculations, combined with meteorological knowledge to complete the tourism situation assessment. Then use natural language technology to realize thematic analysis to assist passengers in exploring suitable related projects.   
 
